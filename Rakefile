@@ -5,7 +5,7 @@ begin
   require 'jeweler'
   Jeweler::Tasks.new do |gem|
     gem.name = "quilted-harvested"
-    gem.version = "0.3.2"
+    gem.version = "0.3.3"
     gem.summary = %Q{A Ruby Wrapper for the Harvest API http://www.getharvest.com/}
     gem.description = %Q{Harvested wraps the Harvest API concisely without the use of Rails dependencies. More information about the Harvest API can be found on their website (http://www.getharvest.com/api). For support hit up the Mailing List (http://groups.google.com/group/harvested)}
     gem.email = "michelle@quilted.coop"
